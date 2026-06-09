@@ -1,4 +1,4 @@
-<img src="giphy.gif" width="100%" />
+<img src="banner.gif" width="100%" />
 
 <h1 align="center">Jan Stańczyk</h1>
 > *Rzeczpospolita już zawiera odpowiedź. Trzeba tylko umieć czytać. xD*
@@ -6,7 +6,9 @@
 ## How I think
 I don't separate the technical from the philosophical. Every system I build has a theory underneath it, and every theory I write eventually becomes a system.
 
-I'm much more on the mystical side than a technical one. 
+I'm much more on the mystical side than a technical one.
+
+... although during the vibe age I think that's more of a plus than a minus.
 
 Reality transurfing enjoyer.
 
