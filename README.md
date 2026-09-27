@@ -1,11 +1,7 @@
 <img src="banner.gif" width="100%" />
 
 ## How I think
-I don't separate the technical from the philosophical. Every system I build has a theory underneath it, and every theory I write eventually becomes a system.
-
-I'm much more on the mystical side than a technical one.
-
-... although during the vibe age I think that's more of a plus than a minus.
+I don't separate the technical from the philosophical. 
 
 Reality transurfing enjoyer.
 
